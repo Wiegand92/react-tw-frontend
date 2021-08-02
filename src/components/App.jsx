@@ -8,6 +8,6 @@ const App = () => (
         <a href='https://github.com/Wiegand92/react-tw'>here</a>
       </p>
     </div>
-);
+);  
 
 export default App;

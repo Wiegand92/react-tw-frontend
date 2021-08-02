@@ -3,6 +3,11 @@
   "less.validate": false,
   "scss.validate": false,
   "[javascript]": {
-    "editor.formatOnSave": true
-  }
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
 }

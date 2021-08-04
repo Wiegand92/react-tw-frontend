@@ -3,15 +3,13 @@
 html,
 body {
   @apply p-0 m-0;
-}
-
-html {
-  @apply h-screen w-screen;
-}
-
-body {
   font-family: Helvetica, Arial, sans-serif;
-  @apply h-full w-full;
+}
+
+html,
+body,
+#target {
+  @apply h-screen w-screen absolute;
 }
 
 button {

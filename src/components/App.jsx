@@ -6,7 +6,7 @@ const App = () => {
       <h1>Hello World!</h1>
       <p>
         Check out the README
-        <a href="https://github.com/Wiegand92/react-tw">here</a>
+        <a href="https://github.com/Wiegand92/react-tw"> here</a>
       </p>
     </div>
   );

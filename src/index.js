@@ -3,7 +3,7 @@ import React from 'react';
 import reactDOM from 'react-dom';
 
 // Styles //
-  // Import tailwind first to give our styles preference //
+// Import tailwind first to give our styles preference //
 import 'tailwindcss/tailwind.css';
 import './styles/style.scss';
 
